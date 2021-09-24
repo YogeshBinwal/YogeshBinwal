@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YogeshBinwal
-- 👀 I’m interested in ... learning new  coding languages 
-- 🌱 I’m currently learning ... java
+- 👀 I’m interested in ... learning coding 
+- 🌱 I’m currently learning ... Web development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... 19bcs2516cu@gmail.com
 
